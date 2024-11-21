@@ -1,11 +1,11 @@
 {
-    "name": "Edhomy: Grow your education",
-    "short_name": "Edhomy: Grow your education",
+    "name": "Edhomy: Educational Social Network",
+    "short_name": "Edhomy: Educational Social Network",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Earn money teaching or learn at affordable prices from the best educators.",
+    "description": "Grow your education. Earn money teaching or learn at affordable prices from the best educators.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
