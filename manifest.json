@@ -1,11 +1,11 @@
 {
-    "name": "Discover — Edhomy",
-    "short_name": "Discover — Edhomy",
+    "name": "Edhomy",
+    "short_name": "Edhomy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Social media for Education. Earn money teaching or learn at affordable prices from the best educators.",
+    "description": "Social media for Education.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
