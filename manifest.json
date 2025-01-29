@@ -1,11 +1,11 @@
 {
-    "name": "Edhomy — Educational Social Platform.",
-    "short_name": "Edhomy — Educational Social Platform.",
+    "name": "Edhomy — Educational Social Platform",
+    "short_name": "Edhomy — Educational Social Platform",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Educational Social Platform.",
+    "description": "The Platform designed for creators, educators, institutions and followers.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
