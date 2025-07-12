@@ -16,7 +16,7 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Edhomy is helping connect professionals around the world through a unique platform to teach, learn, and monetize.">
+  <meta name="description" content="The platform for educational businesses, creators, and followers. Monetize with professional courses, booked calls, and content subscriptions or learn from experts.">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -25,12 +25,13 @@
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="icon" type="image/png" href="favicon.svg">
 
-  <title>Edhomy — Educational Social Platform</title>
+  <title>Edhomy | Businesses & Creators in education</title>
 
   <link rel="manifest" href="manifest.json">
-  
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <style id="splash-screen-style">
@@ -90,6 +91,12 @@
       bottom: 0;
       right: 0;
     }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #000000;
+          }
+    }
   </style>
   <script id="splash-screen-script">
     function removeSplashFromWeb() {
@@ -98,7 +105,6 @@
       document.body.style.background = "transparent";
     }
   </script>
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
 </head>
 <body>
   <picture id="splash">
@@ -106,6 +112,7 @@
       <source srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x" media="(prefers-color-scheme: dark)">
       <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
   </picture>
+  
   
   <meta name="google-signin-client_id" content="644293609317-8figte8l9c35u5lj3fujmmu1gpmi0lah.apps.googleusercontent.com">
   <script type="text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
