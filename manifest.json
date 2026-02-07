@@ -1,11 +1,11 @@
 {
-    "name": "Edhomy",
-    "short_name": "Edhomy",
+    "name": "AI languages",
+    "short_name": "AI languages",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Discover Edhomy — the all-in-one platform where educators worldwide teach languages through calls, courses, and videos.",
+    "description": "Discover AI languages — learn a language with story telling videos and ai tutor.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
