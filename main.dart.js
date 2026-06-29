@@ -57157,7 +57157,7 @@ return A.r($async$$0,r)},
 $S:6}
 A.UH.prototype={
 H(a){var s=null,r=t.J,q=t.p
-return A.O(s,A.aH(A.b([A.hI(A.bX(A.b([B.IM,A.hd(A.aH(A.b([A.aj("Edhomy Platform",s,s,s,B.Jf,B.m,s),A.aj(A.K(a,B.h,r).gds(),s,s,s,B.adI,B.m,s),A.aj(A.K(a,B.h,r).gcL(),1,s,s,B.Jd,B.m,s),A.hv(20,"assets/images/android.png",u.B,10,20,40,A.K(a,B.h,r).gcE()),A.hv(20,"assets/images/apple.png",u.D,10,20,40,A.K(a,B.h,r).gcF()),A.hv(20,"assets/images/mac.png",u.W,10,20,40,A.K(a,B.h,r).gcR())],q),B.G,B.v,B.l),1),new A.eL($.hq[0],500,800,s)],q),B.u,B.W,B.l),s,1232)],q),B.u,B.v,B.l),B.f,B.i,s,s,s,s,s,s,s,s,s,1/0)}}
+return A.O(s,A.aH(A.b([A.hI(A.bX(A.b([B.IM,A.hd(A.aH(A.b([A.aj("Edhomy Platform",s,s,s,B.Jf,B.m,s),A.aj(A.K(a,B.h,r).gds(),s,s,s,B.adI,B.m,s),A.aj(A.K(a,B.h,r).gcL(),1,s,s,B.Jd,B.m,s),A.hv(20,"assets/images/android.png",u.B,10,20,40,A.K(a,B.h,r).gcE()),A.hv(20,"assets/images/apple.png",u.D,10,20,40,A.K(a,B.h,r).gcF()),A.hv(20,"assets/images/mac.png",u.W,10,20,40,A.K(a,B.h,r).gcR())],q),B.G,B.v,B.l),1),new A.eL($.hq[0],400,800,s)],q),B.u,B.W,B.l),s,1232)],q),B.u,B.v,B.l),B.f,B.i,s,s,s,s,s,s,s,s,s,1/0)}}
 A.UV.prototype={
 H(a){var s=null,r=t.J,q=t.p
 return A.O(s,A.aH(A.b([B.ew,A.aj(A.K(a,B.h,r).gcL(),s,s,s,A.i(s,s,B.t,s,s,s,s,s,"IBMPlexSansMedium",s,s,50,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.aH(A.b([A.hv(20,"assets/images/android.png",u.B,10,20,40,A.K(a,B.h,r).gcE()),A.hv(20,"assets/images/apple.png",u.D,10,20,40,A.K(a,B.h,r).gcF()),A.hv(20,"assets/images/mac.png",u.W,10,20,40,A.K(a,B.h,r).gcR())],q),B.u,B.W,B.l),B.ew],q),B.u,B.v,B.l),B.f,B.i,s,s,s,s,s,s,s,s,s,1/0)}}
